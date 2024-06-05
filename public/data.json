@@ -1,0 +1,1096 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 615,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1NnPEAAAQBAJ",
+      "etag": "XGIcdx4Azok",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1NnPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Android Programming",
+        "subtitle": "The Big Nerd Ranch Guide",
+        "authors": [
+          "Bryan Sills",
+          "Brian Gardner",
+          "Kristin Marsicano",
+          "Chris Stewart"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2022-05-12",
+        "description": "Android Programming: The Big Nerd Ranch Guide is an introductory Android book for programmers with Kotlin experience. Based on Big Nerd Ranch's popular Android Bootcamp, this guide will lead you through the wilderness using hands-on example apps combined with clear explanations of key concepts and APIs. This book focuses on practical techniques for developing apps in Kotlin compatible with Android 7.0 (Nougat) through Android 12 and beyond. Write and run code every step of the way, using Android Studio to create apps that integrate with other apps, download and display pictures from the web, store data in databases, and more. Learn about the latest patterns and techniques, including Kotlin coroutines and Jetpack Compose, a new way to build Android UIs. Each chapter and app has been designed and tested to provide the knowledge and experience you need to get started in Android development.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780137645732"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0137645732"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 898,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1NnPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1NnPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uz/books?id=1NnPEAAAQBAJ&pg=PT600&dq=%24%7BsearchItem%7D&hl=&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1NnPEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1NnPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 44.79,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 40.31,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1NnPEAAAQBAJ&rdid=book-1NnPEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 44790000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 40310000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "UZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uz/books/download/Android_Programming-sample-epub.acsm?id=1NnPEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uz/books/download/Android_Programming-sample-pdf.acsm?id=1NnPEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1NnPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearchItem\u003c/b\u003e.actionView as ? SearchView searchView ? .setOnQueryTextListener ( object : SearchView.OnQueryTextListener ... \u003cb\u003esearchItem\u003c/b\u003e . Then you pull the SearchView object from \u003cb\u003esearchItem\u003c/b\u003e using the actionView property . Once you have a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cFk-EAAAQBAJ",
+      "etag": "7tDOOxEwAew",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cFk-EAAAQBAJ",
+      "volumeInfo": {
+        "title": "JAVASCRIPT Programming",
+        "subtitle": "Introduction to JAVASCRIPT, JQUERY, AJAX, Beginner to Advanced, Practical Guide, Tips and Tricks, Easy and Comprehensive (cover JAVA 3)",
+        "authors": ["NeosThanh"],
+        "publisher": "Neos Thanh",
+        "publishedDate": "2021-08-19",
+        "description": "This book brings for you all of knowledge you need to start multi-thread, FILE IO programming from basic to advance by JAVA language. Just by 19 LESSONS, you can analysis easily a game include: - Creating a new Thread - Thread Scheduling and Priority - Multithreading issues in Swing Applications - Thread Pool, Executor, Callable/Future - Avoid deadLock and how to make data synchronization - File and Directory - File I/O Basic to Advance There are many examples & case studies for the practice of programming. Let's enjoy it!",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": ["Young Adult Nonfiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cFk-EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cFk-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uz/books?id=cFk-EAAAQBAJ&pg=PA38&dq=%24%7BsearchItem%7D&hl=&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cFk-EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cFk-EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.35,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.35,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cFk-EAAAQBAJ&rdid=book-cFk-EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3350000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3350000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "UZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uz/books/download/JAVASCRIPT_Programming-sample-pdf.acsm?id=cFk-EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cFk-EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearchItem\u003c/b\u003e[, startIndex]) and .lastIndexOf(\u003cb\u003esearchItem\u003c/b\u003e[, startIndex]): search for the index of the item forward or backward. It returns -1 if item cannot be found. For example, var a = [&#39;a&#39;, &#39;b&#39;, &#39;c&#39;, &#39;a&#39;, &#39;b&#39;, &#39;c&#39;]; var \u003cb\u003esearchItem\u003c/b\u003e = &#39;b&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TAWmDwAAQBAJ",
+      "etag": "lim81+T/AxE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TAWmDwAAQBAJ",
+      "volumeInfo": {
+        "title": "OCR GCSE Computer Science, Second Edition",
+        "authors": [
+          "George Rouse",
+          "Lorne Pearcey",
+          "Gavin Craddock",
+          "Ian Paget"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2020-08-03",
+        "description": "Written by leading Computer Science teachers, this brand-new textbook will guide students through the updated OCR GCSE Computer Science specification topic by topic, and provide them with standalone recap and review sections, worked examples and clear explanations of complex topics. This Student Book: develops computational thinking skills in line with the new Practical Programming element of Component 02 provides differentiated material with the 'beyond the spec' feature includes standalone recap and review sections at the end of each chapter includes answers to the Knowledge Check questions to support independent learning provides definitions of technical terms, along with a glossary of words that will be needed for assessment. Looking for answers for the Student Book? They can be found at the back of the print textbook. You can now access a free set of practice questions on the Hodder Education website. Please note, these questions are not endorsed by OCR and have not been subject to any OCR quality assurance processes. George Rouse, Lorne Pearcey and Gavin Craddock are highly respected and widely published authors of resources.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781510484320"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1510484329"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 379,
+        "printType": "BOOK",
+        "categories": ["Education"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TAWmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TAWmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uz/books?id=TAWmDwAAQBAJ&pg=PT312&dq=%24%7BsearchItem%7D&hl=&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TAWmDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TAWmDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 36.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 36.95,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TAWmDwAAQBAJ&rdid=book-TAWmDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 36950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 36950000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "UZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uz/books/download/OCR_GCSE_Computer_Science_Second_Edition-sample-epub.acsm?id=TAWmDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TAWmDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearchItem\u003c/b\u003e ) 02 searchIndex = 0 // Loop through each index in the array searchList 03 while searchIndex &lt; len ( searchList ) // If the item in the searchList equals \u003cb\u003esearchItem\u003c/b\u003e // then we return true 04 if searchList [ searchIndex ]&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v1jvDwAAQBAJ",
+      "etag": "koS5rqeYWlQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v1jvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "LEARN PYTHON WITH 200 PROGRAMS",
+        "subtitle": "PRACTICAL GUIDE FOR CBSE XI,XII & BEGINEERS",
+        "authors": ["VAISHALI B BHAGAT"],
+        "publisher": "Notion Press ",
+        "publishedDate": "2020-07-02",
+        "description": "The main aim of this book is to provide easiest approach to understand and develop programming skills.This book is for the novice,students having programming background,teachers and professionals.This book contains 240 and more practical examples.The sample programs are meant to be both simple and educational.Whenever necessary,pictorial practical implementation of source code are included to improve clarity and facilitate better understanding.Code with comments are given in the book to elaborate how various lines of code work.The three programming projects in book will give insight on how to integrate the various features of Python programming in real life problems.All programs in this book were written and tested successfully while running Python version 3.3. Version 3.4.This book aims to help you learn this wonderful language and show how to get things done quickly and painlessly.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781649510747"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1649510748"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 374,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v1jvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v1jvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uz/books?id=v1jvDwAAQBAJ&pg=PA281&dq=%24%7BsearchItem%7D&hl=&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=v1jvDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=v1jvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.81,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 10.81,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=v1jvDwAAQBAJ&rdid=book-v1jvDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10810000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10810000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "UZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uz/books/download/LEARN_PYTHON_WITH_200_PROGRAMS-sample-pdf.acsm?id=v1jvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v1jvDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearch item\u003c/b\u003e is : 12 \u003cb\u003eSearch item\u003c/b\u003e is found class Node : def _init_ ( self , data = None ) : self.data = data self.next = None class singly linked_list : def _init_ ( self ) : self.tail = None self.head = None self.count = 0 def&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7EugDwAAQBAJ",
+      "etag": "3PLeu37BxHA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7EugDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Mastering VBA for Microsoft Office 365",
+        "authors": ["Richard Mansfield"],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2019-07-02",
+        "description": "Customize and ramp-up Office 365 applications NOTE: Please click Downloads (located in the menu on the left) to download “Full Code Download.” The revised 2019 edition of Mastering VBA Microsoft Office 365 offers an accessible guide that shows how to extend the capabilities of Office 365 applications with VBA programming. Written in clear terms and understandable language, the book includes systematic tutorials and contains both intermediate and advanced content for experienced VB developers. Designed to be comprehensive, the book addresses not just one Office application, but the entire Office suite. To enhance understanding, the content is explored in real-world projects in Word, Excel, Outlook, and PowerPoint. Since the technical programming methods in the Office applications continue to evolve, the updated 2019 edition reviews the changes to the program. Code libraries, the API, and the object model for each Office program have been modified during the three years since the last version of this book. Various elements within VBA have been deprecated or replaced, and the surface UI changed as well. The updated 2019 edition covers topics such as: • Recording macros and getting started with VBA • Learning how to work with VBA • Using loops and functions • Using message boxes, input boxes, and dialog boxes • Creating effective code • XML-based files, ActiveX, the developer tab, content controls, add-ins, embedded macros, and security Written for all levels of Microsoft Office 365 users, Mastering VBA Microsoft Office 365: 2019 Edition explains how to customize and automate the Office suite of applications.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781119579380"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1119579384"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1406,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7EugDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7EugDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uz/books?id=7EugDwAAQBAJ&pg=PT297&dq=%24%7BsearchItem%7D&hl=&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7EugDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7EugDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 58.24,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 58.24,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7EugDwAAQBAJ&rdid=book-7EugDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 58240000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 58240000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "UZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uz/books/download/Mastering_VBA_for_Microsoft_Office_365-sample-epub.acsm?id=7EugDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uz/books/download/Mastering_VBA_for_Microsoft_Office_365-sample-pdf.acsm?id=7EugDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7EugDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearch item\u003c/b\u003e, and then repeats the divide-andinterrogate procedure until it either finds the \u003cb\u003esearch item\u003c/b\u003e or reaches the last subdivisible unit of the array without finding it. And reports not found. Remember, this array is presorted, so&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JM-KDwAAQBAJ",
+      "etag": "BXIH8qn/czs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JM-KDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Getting Started with Python",
+        "subtitle": "Understand key data structures and use Python in object-oriented programming",
+        "authors": ["Fabrizio Romano", "Benjamin Baka", "Dusty Phillips"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2019-02-27",
+        "description": "Harness the power of Python objects and data structures to implement algorithms for analyzing your data and efficiently extracting information Key FeaturesTurn your designs into working software by learning the Python syntaxWrite robust code with a solid understanding of Python data structuresUnderstand when to use the functional or the OOP approachBook Description This Learning Path helps you get comfortable with the world of Python. It starts with a thorough and practical introduction to Python. You’ll quickly start writing programs, building websites, and working with data by harnessing Python's renowned data science libraries. With the power of linked lists, binary searches, and sorting algorithms, you'll easily create complex data structures, such as graphs, stacks, and queues. After understanding cooperative inheritance, you'll expertly raise, handle, and manipulate exceptions. You will effortlessly integrate the object-oriented and not-so-object-oriented aspects of Python, and create maintainable applications using higher level design patterns. Once you’ve covered core topics, you’ll understand the joy of unit testing and just how easy it is to create unit tests. By the end of this Learning Path, you will have built components that are easy to understand, debug, and can be used across different applications. This Learning Path includes content from the following Packt products: Learn Python Programming - Second Edition by Fabrizio RomanoPython Data Structures and Algorithms by Benjamin BakaPython 3 Object-Oriented Programming by Dusty PhillipsWhat you will learnUse data structures and control flow to write codeUse functions to bundle together a sequence of instructionsImplement objects in Python by creating classes and defining methodsDesign public interfaces using abstraction, encapsulation and information hidingRaise, define, and manipulate exceptions using special error objectsCreate bulletproof and reliable software by writing unit testsLearn the common programming patterns and algorithms used in PythonWho this book is for If you are relatively new to coding and want to write scripts or programs to accomplish tasks using Python, or if you are an object-oriented programmer for other languages and seeking a leg up in the world of Python, then this Learning Path is for you. Though not essential, it will help you to have basic knowledge of programming and OOP.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781838559984"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1838559981"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 707,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JM-KDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JM-KDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uz/books?id=JM-KDwAAQBAJ&pg=PA225&dq=%24%7BsearchItem%7D&hl=&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JM-KDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JM-KDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 41.43,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 37.29,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=JM-KDwAAQBAJ&rdid=book-JM-KDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 41430000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 37290000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "UZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JM-KDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearch item\u003c/b\u003e is not found at all When the \u003cb\u003esearch item\u003c/b\u003e is found at the very beginning of the list When the \u003cb\u003esearch item\u003c/b\u003e is found at the tail end of the list When the \u003cb\u003esearch item\u003c/b\u003e is found somewhere in the middle of the list The node to be&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "inl_DwAAQBAJ",
+      "etag": "/lZcsuyO1QQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/inl_DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Computer Science Illuminated",
+        "authors": ["Nell Dale", "John Lewis"],
+        "publisher": "Jones & Bartlett Learning",
+        "publishedDate": "2019-01-17",
+        "description": "Fully revised aDesigned for the introductory computing and computer science course, the student-friendly Computer Science Illuminated, Seventh Edition provides students with a solid foundation for further study, and offers non-majors a complete introduction to computing. Fully revised and updated, the Seventh Edition of this best-selling text retains the accessibility and in-depth coverage of previous editions, while incorporating all-new material on cutting-edge issues in computer science. Authored by the award-winning team Nell Dale and John nd updated, the Seventh Edition of the best-selling text Computer Science Illuminated retains the accessibility and in-depth coverage of previous editions, while incorporating all-new material on cutting-edge issues in computer science. Authored by the award-winning Nell Dale and John Lewis, Computer Science Illuminated’s unique and innovative layered approach moves through the levels of computing from an organized, language-neutral perspective.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781284155617"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1284155617"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 725,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=inl_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=inl_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uz/books?id=inl_DwAAQBAJ&pg=PA211&dq=%24%7BsearchItem%7D&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.co.uz/books?id=inl_DwAAQBAJ&dq=%24%7BsearchItem%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Computer_Science_Illuminated.html?hl=&id=inl_DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UZ",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "UZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uz/books/download/Computer_Science_Illuminated-sample-pdf.acsm?id=inl_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=inl_DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearchItem\u003c/b\u003e is there Set index to 0 Set found to FALSE WHILE (index &lt; length AND NOT found) IF (data[index] equals \u003cb\u003esearchItem\u003c/b\u003e) Set found to TRUE ELSE IF (data[index] &gt; \u003cb\u003esearchItem\u003c/b\u003e) Set index to length ELSE Set index to index + 1 © Artur&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bOh1DwAAQBAJ",
+      "etag": "J8z3+whI9v8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bOh1DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hands-On Data Structures and Algorithms with Python",
+        "subtitle": "Write complex and powerful code using the latest features of Python 3.7, 2nd Edition",
+        "authors": ["Dr. Basant Agarwal", "Benjamin Baka"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2018-10-31",
+        "description": "Learn to implement complex data structures and algorithms using Python Key FeaturesUnderstand the analysis and design of fundamental Python data structuresExplore advanced Python concepts such as Big O notation and dynamic programmingLearn functional and reactive implementations of traditional data structuresBook Description Data structures allow you to store and organize data efficiently. They are critical to any problem, provide a complete solution, and act like reusable code. Hands-On Data Structures and Algorithms with Python teaches you the essential Python data structures and the most common algorithms for building easy and maintainable applications. This book helps you to understand the power of linked lists, double linked lists, and circular linked lists. You will learn to create complex data structures, such as graphs, stacks, and queues. As you make your way through the chapters, you will explore the application of binary searches and binary search trees, along with learning common techniques and structures used in tasks such as preprocessing, modeling, and transforming data. In the concluding chapters, you will get to grips with organizing your code in a manageable, consistent, and extendable way. You will also study how to bubble sort, selection sort, insertion sort, and merge sort algorithms in detail. By the end of the book, you will have learned how to build components that are easy to understand, debug, and use in different applications. You will get insights into Python implementation of all the important and relevant algorithms. What you will learnUnderstand object representation, attribute binding, and data encapsulationGain a solid understanding of Python data structures using algorithmsStudy algorithms using examples with pictorial representationLearn complex algorithms through easy explanation, implementing PythonBuild sophisticated and efficient data applications in PythonUnderstand common programming algorithms used in Python data scienceWrite efficient and robust code in Python 3.7Who this book is for This book is for developers who want to learn data structures and algorithms in Python to write complex and flexible programs. Basic Python programming knowledge is expected.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788991933"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1788991931"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 389,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bOh1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bOh1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uz/books?id=bOh1DwAAQBAJ&pg=PA234&dq=%24%7BsearchItem%7D&hl=&cd=32&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bOh1DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bOh1DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 40.31,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 36.28,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bOh1DwAAQBAJ&rdid=book-bOh1DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 40310000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 36280000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "UZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bOh1DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearch item\u003c/b\u003e is not matched in the list. The worst-case time complexity of an ordered linear search is O(n). In ... \u003cb\u003esearch item\u003c/b\u003e is smaller than the middle value then it will look for the searched item only in the first half of the list&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iy50DwAAQBAJ",
+      "etag": "bEjemZDePrs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iy50DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Android 9 Development Cookbook",
+        "subtitle": "Over 100 recipes and solutions to solve the most common problems faced by Android developers, 3rd Edition",
+        "authors": ["Rick Boyer"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2018-10-19",
+        "description": "Build feature-rich, reliable Android Pie apps with the help of more than 100 proven industry standard recipes and strategies. Key FeaturesUncover the latest features in Android 9 Pie to make your applications stand outDevelop Android Pie applications with the latest mobile technologies, from set up to securityGet up-to-speed with Android Studio 3 and its impressive new featuresBook Description The Android OS has the largest installation base of any operating system in the world. There has never been a better time to learn Android development to write your own applications, or to make your own contributions to the open source community! With this extensively updated cookbook, you'll find solutions for working with the user interfaces, multitouch gestures, location awareness, web services, and device features such as the phone, camera, and accelerometer. You also get useful steps on packaging your app for the Android Market. Each recipe provides a clear solution and sample code you can use in your project from the outset. Whether you are writing your first app or your hundredth, this is a book that you will come back to time and time again, with its many tips and tricks on the rich features of Android Pie. What you will learnDevelop applications using the latest Android framework while maintaining backward-compatibility with the support libraryCreate engaging applications using knowledge gained from recipes on graphics, animations, and multimediaWork through succinct steps on specifics that will help you complete your project fasterAdd location awareness to your own app with examples using the latest Google Play services APIUtilize Google Speech Recognition APIs for your appWho this book is for If you are new to Android development and want to take a hands-on approach to learning the framework, or if you are an experienced developer in need of clear working code to solve the many challenges in Android development, you will benefit from this book. Either way, this is a resource you'll want to keep on your desk as a quick reference to help you solve new problems as you tackle more challenging projects.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788622967"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1788622960"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 458,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iy50DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iy50DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uz/books?id=iy50DwAAQBAJ&pg=PA150&dq=%24%7BsearchItem%7D&hl=&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iy50DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iy50DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 40.31,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 36.28,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=iy50DwAAQBAJ&rdid=book-iy50DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 40310000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 36280000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "UZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iy50DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearchItem\u003c/b\u003e = menu.findItem(R.id.menu_search); SearchView searchView = (SearchView) \u003cb\u003esearchItem\u003c/b\u003e.getActionView(); searchView.setSearchableInfo(searchManager.getSearchableInfo(getCom ponentName())); return true; } 5. Create a new XML&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wu5qDwAAQBAJ",
+      "etag": "jhyx8iOKCWA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wu5qDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Professional Android",
+        "authors": ["Reto Meier", "Ian Lake"],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2018-08-23",
+        "description": "The comprehensive developer guide to the latest Android featuresand capabilities Professional Android, 4th Edition shows developers how toleverage the latest features of Android to create robust andcompelling mobile apps. This hands-on approach provides in-depthcoverage through a series of projects, each introducing a newAndroid platform feature and highlighting the techniques and bestpractices that exploit its utmost functionality. The exercisesbegin simply, and gradually build into advanced Androiddevelopment. Clear, concise examples show you how to quicklyconstruct real-world mobile applications. This book is your guide to smart, efficient, effective Androiddevelopment. Learn the best practices that get more out of Android Understand the anatomy, lifecycle, and UI metaphor of Androidapps Design for all mobile platforms, including tablets Utilize both the Android framework and Google Playservices",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118949535"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118949536"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 928,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wu5qDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wu5qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uz/books?id=Wu5qDwAAQBAJ&pg=PT599&dq=%24%7BsearchItem%7D&hl=&cd=35&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Wu5qDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Wu5qDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 56,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 56,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Wu5qDwAAQBAJ&rdid=book-Wu5qDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 56000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 56000000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "UZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uz/books/download/Professional_Android-sample-epub.acsm?id=Wu5qDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uz/books/download/Professional_Android-sample-pdf.acsm?id=Wu5qDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wu5qDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearchItem\u003c/b\u003e = menu.findItem(R.id.action_search); SearchView searchView = (SearchView) \u003cb\u003esearchItem\u003c/b\u003e.getActionView(); searchView.setOnSearchClickListener(new OnClickListener() { public void onClick(View v) { // TODO React to the button press&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Xu5qDwAAQBAJ",
+      "etag": "1OqU3vp569M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xu5qDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Professional Android",
+        "authors": ["Reto Meier", "Ian Lake"],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2018-08-23",
+        "description": "The comprehensive developer guide to the latest Android featuresand capabilities Professional Android, 4th Edition shows developers how toleverage the latest features of Android to create robust andcompelling mobile apps. This hands-on approach provides in-depthcoverage through a series of projects, each introducing a newAndroid platform feature and highlighting the techniques and bestpractices that exploit its utmost functionality. The exercisesbegin simply, and gradually build into advanced Androiddevelopment. Clear, concise examples show you how to quicklyconstruct real-world mobile applications. This book is your guide to smart, efficient, effective Androiddevelopment. Learn the best practices that get more out of Android Understand the anatomy, lifecycle, and UI metaphor of Androidapps Design for all mobile platforms, including tablets Utilize both the Android framework and Google Playservices",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118949542"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118949544"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 928,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Xu5qDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Xu5qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uz/books?id=Xu5qDwAAQBAJ&pg=PA471&dq=%24%7BsearchItem%7D&hl=&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Xu5qDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Xu5qDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 56,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 56,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Xu5qDwAAQBAJ&rdid=book-Xu5qDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 56000000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 56000000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "UZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uz/books/download/Professional_Android-sample-pdf.acsm?id=Xu5qDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xu5qDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearchItem\u003c/b\u003e = menu.findItem(R.id.action_search); SearchView searchView = (SearchView) \u003cb\u003esearchItem\u003c/b\u003e.getActionView(); searchView.setOnSearchClickListener(new OnClickListener() { public void onClick(View v) { // TODO React to the button press&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "os7KDwAAQBAJ",
+      "etag": "fcPqv9VOEB8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/os7KDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Oxford International AQA Examinations: International GCSE Computer Science",
+        "authors": ["Alison Page"],
+        "publisher": "Oxford University Press - Children",
+        "publishedDate": "2017-11-16",
+        "description": "The only textbook that fully supports the Oxford AQA International GCSE Computer Science specification (9210), for first teaching from September 2017. The practical, step-by-step approach enables students to develop and apply problem solving and computational thinking skills in context. This ensures they are exam ready and prepares them for further study or life in the working world. Thoroughly prepare students for the theoretical and practical papers with extensive coding and programming support plus opportunities for practice. Clear explanations ensure students have a thorough understanding of trickier topics such as such as number representation, relational databases and SQL.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780198417316"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0198417314"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Juvenile Nonfiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=os7KDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=os7KDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.uz/books?id=os7KDwAAQBAJ&pg=PA115&dq=%24%7BsearchItem%7D&hl=&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=os7KDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=os7KDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "UZ",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 47.03,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 47.03,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=os7KDwAAQBAJ&rdid=book-os7KDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 47030000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 47030000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "UZ",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.uz/books/download/Oxford_International_AQA_Examinations_In-sample-pdf.acsm?id=os7KDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=os7KDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... \u003cb\u003esearchitem\u003c/b\u003e == searchlist[mid]: return True If the midpoint is not the \u003cb\u003esearch item\u003c/b\u003e If the midpoint is not the \u003cb\u003esearch item\u003c/b\u003e, we will continue the search. We reset the start and stop values. We move them closer together: ○ If \u003cb\u003esearchitem\u003c/b\u003e is&nbsp;..."
+      }
+    }
+  ],
+  "bookmarked": []
+}
