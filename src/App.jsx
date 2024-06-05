@@ -13,7 +13,7 @@ function App() {
   const { pathname } = useLocation();
   console.log(pathname);
   useEffect(() => {
-    JSON.parse(localStorage.getItem("token"))?.length
+    localStorage.getItem("token")?.length
       ? navigate(pathname == "/auth/login" ? "/" : { pathname })
       : navigate("auth/login");
   }, []);
